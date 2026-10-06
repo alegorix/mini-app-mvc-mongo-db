@@ -16,7 +16,7 @@ Projet de gestion d'utilisateurs (CRUD) développé en **PHP natif** selon le pa
 ## Structure du Projet
 
 ```text
-mini-app-mvc/
+mini-app-mvc-mongo-db/
 ├── composer.json
 ├── index.php             # Routeur principal
 ├── setup.php             # Script d'initialisation DB
